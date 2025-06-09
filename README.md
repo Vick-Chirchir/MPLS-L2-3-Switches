@@ -20,7 +20,7 @@ This project demonstrates the implementation of Network Address Translation (NAT
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/0VYAkma.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cnXn2ih.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuration of NAT Overload (PAT – Port Address Translation)  (NAT Router): <br/>
