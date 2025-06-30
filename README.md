@@ -4,7 +4,13 @@
 <!-- ### [Kaltura Capture Recording](https://mediaspace.minnstate.edu/media/Kaltura+Capture+recording+-+April+26th+2025%2C+11%3A11%3A10+pm/1_sp0j5ef9) -->
 
 <h2>Description</h2>
-This project demonstrates the implementation of Network Address Translation (NAT) on a Cisco router to allow internal private network devices to access the public internet. The lab was created in Cisco Packet Tracer and showcases a typical enterprise scenario where internal hosts use private IP addresses that must be translated to a public IP for external communication. This project reflects the practical application of NAT in enterprise networks where IP translation is required to bridge private networks with public internet access.
+This project simulates MPLS-like Layer 2/3 switching behaviour using Cisco multilayer switches in Cisco Packet Tracer. The setup involves two VLANs configured on separate switches, each representing a distinct broadcast domain:
+
+Project Highlights:
+1. Multilayer switching is configured on both ends to route between VLANs at Layer 3.
+2. A trunk link is established between the switches to carry tagged VLAN traffic across the backbone.
+3. Demonstrates VLAN isolation and inter-VLAN communication through SVI (Switched Virtual Interface) configuration.
+4. Reflects a simplified MPLS-like architecture, where data forwarding is handled at Layer 2 while routing decisions are made at Layer 3.
 <br />
 
 
@@ -20,15 +26,23 @@ This project demonstrates the implementation of Network Address Translation (NAT
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/cnXn2ih.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5ML61L8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuration of NAT Overload (PAT – Port Address Translation)  (NAT Router): <br/>
-<img src="https://i.imgur.com/5kUtZhg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuration of Switchport modes: access and trunk ports(Multilayer Switch 2): <br/>
+<img src="https://i.imgur.com/QCrkZ4U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Internet Router Configuration(Internet):  <br/>
-<img src="https://i.imgur.com/Vwqa2iO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuration of the Vlan 20 (Multilayer Switch 2):  <br/>
+<img src="https://i.imgur.com/YKSVCeC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Configuration of Switchport modes: access and trunk ports(Multilayer Switch 3): <br/>
+<img src="https://i.imgur.com/m6yQGVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Configuration of the Vlan 20 (Multilayer Switch 3):  <br/>
+<img src="https://i.imgur.com/Il11NHd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verifying the Configuration is successful:  <br/>
