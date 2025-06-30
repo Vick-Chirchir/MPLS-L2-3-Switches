@@ -29,24 +29,25 @@ Network Design: <br/>
 <img src="https://i.imgur.com/5ML61L8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuration of Switchport modes: access and trunk ports(Multilayer Switch 2): <br/>
-<img src="https://i.imgur.com/QCrkZ4U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enabling routing (IP routing) and Configuration of Switchport modes: access and trunk ports(Multilayer Switch2 (L2/3 Switch)): <br/>
+<img src="https://i.imgur.com/zIEraBI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuration of the Vlan 20 (Multilayer Switch 2):  <br/>
-<img src="https://i.imgur.com/YKSVCeC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuration of Vlan 10 & Vlan 20 (Multilayer Switch2 (L2/3 Switch)):  <br/>
+<img src="https://i.imgur.com/JVM4t8h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuration of Switchport modes: access and trunk ports(Multilayer Switch 3): <br/>
+Configuration of Switchport modes: access and trunk ports(Multilayer Switch3 (L2 Switch)): <br/>
 <img src="https://i.imgur.com/m6yQGVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuration of the Vlan 20 (Multilayer Switch 3):  <br/>
-<img src="https://i.imgur.com/Il11NHd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Verifying the Configuration is successful (PC0 ping):  <br/>
+<img src="https://i.imgur.com/TsfX7BK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Verifying the Configuration is successful:  <br/>
-<img src="https://i.imgur.com/1buFVpK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verifying the Configuration is successful (PC1 ping):  <br/>
+<img src="https://i.imgur.com/HEcPtMc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
