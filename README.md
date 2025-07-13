@@ -26,28 +26,28 @@ Project Highlights:
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/5ML61L8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5ML61L8.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enabling routing (IP routing) and Configuration of Switchport modes: access and trunk ports(Multilayer Switch2 (L2/3 Switch)): <br/>
-<img src="https://i.imgur.com/zIEraBI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enabling routing (IP routing) and Configuration of Switchport modes: access and trunk ports(Multilayer Switch2 (L3 Switch)): <br/>
+<img src="https://i.imgur.com/zIEraBI.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuration of Vlan 10 & Vlan 20 (Multilayer Switch2 (L2/3 Switch)):  <br/>
-<img src="https://i.imgur.com/JVM4t8h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuration of Vlan 10 & Vlan 20 (Multilayer Switch2 (L3 Switch)):  <br/>
+<img src="https://i.imgur.com/JVM4t8h.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configuration of Switchport modes: access and trunk ports(Multilayer Switch3 (L2 Switch)): <br/>
-<img src="https://i.imgur.com/m6yQGVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m6yQGVP.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 Verifying the Configuration is successful (PC0 ping):  <br/>
-<img src="https://i.imgur.com/TsfX7BK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TsfX7BK.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Verifying the Configuration is successful (PC1 ping):  <br/>
-<img src="https://i.imgur.com/HEcPtMc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HEcPtMc.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
